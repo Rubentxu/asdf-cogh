@@ -1,0 +1,2 @@
+# asdf requires bin/ at the repository root; a global ignore of bin/ must not hide it.
+!bin/
